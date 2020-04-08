@@ -3,6 +3,7 @@
 
 #include "Adafruit_ST77xx.h"
 
+
 // some flags for initR() :(
 #define INITR_GREENTAB 0x00
 #define INITR_REDTAB 0x01
